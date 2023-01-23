@@ -12,7 +12,7 @@ colors.get_colors = function()
             vscTabOther = '#2D2D2D',
             vscTabOutside = '#252526',
 
-            vscLeftDark = '#252526',
+            vscLeftDark = '#000000',
             vscLeftMid = '#373737',
             vscLeftLight = '#636369',
 
