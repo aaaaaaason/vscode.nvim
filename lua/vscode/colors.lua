@@ -5,7 +5,7 @@ colors.get_colors = function()
     if vim.o.background == 'dark' then
         mycolors = {
             vscNone = 'NONE',
-            vscFront = '#D4D4D4',
+            vscFront = '#202020',
             vscBack = '#000000',
 
             vscTabCurrent = '#1E1E1E',
